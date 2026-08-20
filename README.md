@@ -1,35 +1,37 @@
 <div align="center">
 
-  <!-- TOP CYBERPUNK ANIMATED BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=240&section=header&text=LE%20QUAN%20%E2%80%A2%20SYSTEM%20ARCHITECT&fontSize=42&fontColor=00f0ff&fontAlign=50&fontAlignY=38&desc=ACADEMY%20OF%20CRYPTOGRAPHY%20TECHNIQUES%20%7C%20HIGH%20PERFORMANCE%20BACKEND&descSize=16&descAlign=50&descAlignY=62&stroke=00f0ff&strokeWidth=1" width="100%"/>
+  <!-- PIXEL RETRO ARCADE BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1b1b2f,50:162447,100:1f4068&height=230&section=header&text=%F0%9F%90%BE%20LE%20QUAN%20%E2%80%A2%20PIXEL%20ARCHITECT%20%F0%9F%90%BE&fontSize=36&fontColor=00ffcc&fontAlign=50&fontAlignY=40&desc=%E2%9A%94%EF%B8%8F%20KMA%20GUILD%20%7C%20LVL.99%20GOLANG%20BACKEND%20WIZARD%20%E2%9A%94%EF%B8%8F&descSize=16&descAlign=50&descAlignY=65&stroke=00ffcc&strokeWidth=2" width="100%"/>
 
   <br/>
 
-  <!-- MULTI-LINE GLITCH / TYPING TERMINAL -->
+  <!-- PIXEL RETRO ARCADE TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%5B%2B%5D+INITIALIZING+SYSTEM_ENGINE%3A+BSM-DISPATCH-V2;%5B%2B%5D+SPECIALIZATION%3A+ZERO-ALLOCATION+GOLANG;%5B%2B%5D+ARCHITECTURE%3A+EVENT-DRIVEN+MICROSERVICES;%5B%2B%5D+KMA+CRYPTOGRAPHY+%26+SECURITY+RESEARCHER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=00FFCC&center=true&vCenter=true&width=780&lines=GAME+START%3A+LEQUANNEKMA+PROFILE;CLASS%3A+HIGH-PERFORMANCE+SYSTEMS+ENGINEER;SPELL%3A+ZERO-ALLOCATION+GOLANG+DISPATCH;QUEST%3A+BUILDING+BSM+MOBILITY+ENGINE" alt="Pixel Typing SVG" />
   </a>
 
 </div>
 
 <br/>
 
-<!-- CYBERPUNK TERMINAL DASHBOARD -->
-<table width="100%">
+<!-- RETRO PIXEL RPG CHARACTER SHEET -->
+<table width="100%" align="center">
 <tr>
-<td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+<td bgcolor="#0d1117" style="border: 3px double #00ffcc; border-radius: 12px; padding: 18px;">
 
-```shell
-lequanneKMA@kma-node-01:~$ ./system_status.sh --verbose
+<h3 align="center" style="color: #00ffcc;">👾 CHARACTER STATUS SHEET: LE QUAN (lequanneKMA)</h3>
 
-[SYSTEM TELEMETRY]
-├─ OPERATOR      : LE QUAN (Quan Le)
-├─ INSTITUTION   : Academy of Cryptography Techniques (KMA - Học Viện Kỹ Thuật Mật Mã)
-├─ PRIMARY_ROLE  : High-Performance Backend & Distributed Systems Engineer
-├─ CURRENT_FLAG  : 🚀 Architecting BSM (Backend System for Mobility) Dispatch Engine
-├─ CORE_STACK    : Go (Golang), Event-Driven Architecture, Kafka, Redis, PostgreSQL
-├─ ALGO_GOAL     : Zero-Allocation (0 B/op) Scoring & Sub-millisecond Routing
-└─ STATUS        : 🟢 ONLINE | ⚡ READY FOR HIGH-CONCURRENCY CHALLENGES
+```text
+ 🛡️ GUILD         : KMA (Academy of Cryptography Techniques)
+ ⚔️ PLAYER CLASS  : Senior Backend System Architect
+ 🧙 SPELLBOOK     : Go, Microservices, Event-Driven Architecture, Kafka, Redis, Postgres
+ 🎯 CURRENT QUEST : Architecting BSM (Backend System for Mobility) Engine
+
+ [STATS & POWER METERS]
+ 💖 HP (Concurrency)  : [████████████████████] 100% (100K+ Req/sec Handled)
+ 🔮 MP (Zero-Alloc)   : [████████████████████] 100% (0 B/op Heap Allocation)
+ ⚡ EXP (Geospatial)  : [████████████████░░░░]  85% (H3 / S2 Indexing Engine)
+ 🛡️ DEF (Security)    : [███████████████░░░░░]  80% (Crypto & System Security)
 ```
 
 </td>
@@ -38,46 +40,58 @@ lequanneKMA@kma-node-01:~$ ./system_status.sh --verbose
 
 <br/>
 
-<!-- GITHUB TROPHIES SECTION -->
-<div align="center">
-  <h2>🏆 GitHub Accomplishments & Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=lequanneKMA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
-</div>
+<!-- RETRO QUEST LOG (COMPLETED & IN-PROGRESS TASKS) -->
+<h2 align="center">📜 RETRO QUEST LOG (MAIN MISSIONS)</h2>
 
-<br/>
-
-<!-- ARCHITECTURE & CORE EXPERTISE METERS -->
-<h2 align="center">⚡ Core Engineering Matrix</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚙️ Backend & Systems</h3>
-      <ul>
-        <li><b>Golang & Concurrency</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%</code></li>
-        <li><b>Event-Driven (Kafka / MQ)</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 85%</code></li>
-        <li><b>Microservices Architecture</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 85%</code></li>
-        <li><b>Distributed Caching (Redis)</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 80%</code></li>
-        <li><b>SQL Optimization (PostgreSQL)</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 80%</code></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Security & Algorithms</h3>
-      <ul>
-        <li><b>Zero-Alloc Engine Design</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%</code></li>
-        <li><b>Geospatial Indexing (H3/S2)</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 80%</code></li>
-        <li><b>Cryptography & System Sec</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 75%</code></li>
-        <li><b>Docker & DevOps Pipelines</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 75%</code></li>
-        <li><b>Linux Kernel / Bash Scripting</b> <br/> <code>▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 80%</code></li>
-      </ul>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr bgcolor="#161b22">
+      <th align="center">LEVEL</th>
+      <th align="left">QUEST NAME & OBJECTIVE</th>
+      <th align="center">STATUS</th>
+      <th align="center">LOOT / REWARD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>LVL 99</b></td>
+      <td><b>BSM Mobility Engine</b><br/>High-performance dispatching & scoring algorithm</td>
+      <td align="center">🟢 <code>CLEARED</code></td>
+      <td align="center">💎 <code>0 B/op Score</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>LVL 90</b></td>
+      <td><b>2-Stage Event Architecture</b><br/>Decoupled Location-Svc & Dispatch-Svc via Kafka</td>
+      <td align="center">🟢 <code>CLEARED</code></td>
+      <td align="center">⚡ <code>Sub-ms ETA</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>LVL 85</b></td>
+      <td><b>KMA Cryptography Research</b><br/>System security, cipher suites & data protection</td>
+      <td align="center">🟡 <code>IN PROGRESS</code></td>
+      <td align="center">🛡️ <code>Crypto Shield</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>LVL 80</b></td>
+      <td><b>Real-Time Simulator</b><br/>1,000,000+ driver-passenger scoring benchmark</td>
+      <td align="center">🟢 <code>CLEARED</code></td>
+      <td align="center">🏆 <code>Master Badge</code></td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
 
-<!-- TECH STACK & TOOLS HUB -->
-<h2 align="center">💎 Weapons of Choice</h2>
+<!-- PIXEL TROPHIES SECTION -->
+<div align="center">
+  <h2>🏆 RETRO ARCADE TROPHY ROOM</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=lequanneKMA&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</div>
+
+<br/>
+
+<!-- PIXEL SKILL INVENTORY & INVENTORY MATRIX -->
+<h2 align="center">🎒 PIXEL INVENTORY & SPELL SKILLS</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -87,79 +101,62 @@ lequanneKMA@kma-node-01:~$ ./system_status.sh --verbose
 
 <br/>
 
-<!-- FEATURED PROJECT HIGHLIGHT -->
-<h2 align="center">🚀 Featured Project: BSM (Backend System for Mobility)</h2>
-
-<table width="100%">
-  <tr>
-    <td>
-      <h3>🚘 High-Performance Dispatch & Scoring Engine in Go</h3>
-      <p>A production-ready, ultra-low latency mobility dispatching system designed for 100K+ concurrent driver-passenger matching requests with non-linear multi-attribute scoring.</p>
-      <ul>
-        <li>⚡ <b>Zero Allocation Benchmark:</b> <code>RankCandidates()</code> optimized down to 0 B/op.</li>
-        <li>🌐 <b>Decoupled Architecture:</b> 2-stage Pipeline (Location Service + Dispatch Service).</li>
-        <li>📊 <b>Real-world Simulator:</b> Built-in benchmark suite handling 1M+ driver scoring calculations.</li>
-      </ul>
-      <p align="right">
-        <a href="https://github.com/lequanneKMA/BSM">
-          <img src="https://img.shields.io/badge/Explore%20BSM-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ADVANCED ANALYTICS & ACTIVITY GRAPH -->
-<h2 align="center">📈 Analytics & Contribution Metrics</h2>
+<!-- PIXEL GAME STATS & STREAK -->
+<h2 align="center">👾 GAMEPLAY METRICS & HIGH SCORES</h2>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lequanneKMA&theme=react-dark&hide_border=true&area=true" />
+  <!-- GitHub Activity Graph - Synthwave Pixel Theme -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lequanneKMA&theme=synthwave&hide_border=true&area=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=lequanneKMA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_radius=10" />
+  <!-- GitHub Stats Synthwave Card -->
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=lequanneKMA&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
   
-  <!-- Top Languages Card -->
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequanneKMA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_radius=10" />
+  <!-- Top Languages Synthwave Card -->
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequanneKMA&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak Card -->
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=lequanneKMA&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" />
+  <!-- GitHub Streak Synthwave Card -->
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=lequanneKMA&theme=synthwave&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-<h2 align="center">🐍 GitHub Contribution Matrix</h2>
+<!-- RETRO SNAKE ARCADE GAME CONTAINER -->
+<h2 align="center">🕹️ RETRO SNAKE ARCADE GAME</h2>
 
-<div align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d;">
+<table width="100%" align="center">
+<tr>
+<td bgcolor="#0d1117" align="center" style="border: 4px ridge #ff007f; border-radius: 12px; padding: 15px;">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lequanneKMA/lequanneKMA/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lequanneKMA/lequanneKMA/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lequanneKMA/lequanneKMA/output/github-contribution-grid-snake.svg">
   </picture>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- DAILY RETRO WISDOM / QUOTE -->
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=synthwave&bg_color=0d1117&author_color=00ffcc&quote_color=e0e6ed" />
 </div>
 
 <br/>
 
-<!-- RANDOM QUOTE & VISITOR BADGE -->
+<!-- RETRO FOOTER BADGES -->
 <div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=0d1117&author_color=00f0ff&quote_color=c9d1d9" />
-</div>
-
-<br/>
-
-<!-- FOOTER BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/badge/SECURITY-KMA_ENCRYPTED-00f0ff?style=for-the-badge&logo=security&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BUILD-PASSING-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=lequanneKMA&color=00f0ff&style=for-the-badge&label=SYSTEM+VISITS" />
+  <img src="https://img.shields.io/badge/GAME_STATE-SAVE_SUCCESS-00ffcc?style=for-the-badge&logo=gamepad&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GUILD-KMA_CRYPTO_ACADEMY-ff007f?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=lequanneKMA&color=00ffcc&style=for-the-badge&label=PLAYERS+INSERTED+COIN" />
 </div>
